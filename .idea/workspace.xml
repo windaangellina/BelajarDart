@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1349469-41a1-4d81-8612-7484e0b8402b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uZSfQPHITYmaXoJ7FDuSZUPmtP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FileKuliah\IDCamp2021\Belajar\bin\oop\fundamental" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.ObjectOrientedProgramming.dart">
+    <configuration name="Belajar.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/Belajar.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Collection.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/Collection.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ControlFlow.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/ControlFlow.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ObjectOrientedProgramming.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/oop/ObjectOrientedProgramming.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProcedureFunction.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/ProcedureFunction.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Dart Command Line App.ProcedureFunction.dart" />
+      <item itemvalue="Dart Command Line App.ControlFlow.dart" />
+      <item itemvalue="Dart Command Line App.Collection.dart" />
+      <item itemvalue="Dart Command Line App.ObjectOrientedProgramming.dart" />
+      <item itemvalue="Dart Command Line App.Belajar.dart" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.Belajar.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1349469-41a1-4d81-8612-7484e0b8402b" name="Default Changelist" comment="" />
+      <created>1624871722806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624871722806</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624887889224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624887889224" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1624887245796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624887245796" />
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1624887395371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624887395371" />
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom" timestamp="1624899050886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624899050886" />
+    <state width="1877" height="231" key="GridCell.Tab.0.center" timestamp="1624899050886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624899050886" />
+    <state width="1877" height="231" key="GridCell.Tab.0.left" timestamp="1624899050886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624899050886" />
+    <state width="1877" height="231" key="GridCell.Tab.0.right" timestamp="1624899050886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624899050886" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1624899050883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624899050883" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1624899050883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624899050883" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1624899050883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624899050883" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1624899050883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624899050883" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1624872067192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624872067192" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1624871737258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624871737258" />
+  </component>
+</project>
